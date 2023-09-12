@@ -1,0 +1,521 @@
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\appsettings.json
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Emart_final.exe
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Emart_final.deps.json
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Emart_final.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Emart_final.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Emart_final.pdb
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.Emart_final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.build.Emart_final.props
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Emart_final.props
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Emart_final.props
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\scopedcss\bundle\Emart_final.styles.css
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CopyComplete
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\refint\Emart_final.dll
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.pdb
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\Emart_final.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Project\Emart_final\obj\Debug\net7.0\ref\Emart_final.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\appsettings.Development.json
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\appsettings.json
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.exe
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.deps.json
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.runtimeconfig.json
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.pdb
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Azure.Core.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Azure.Identity.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Humanizer.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.CodeDom.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.AssemblyReference.cache
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfoInputs.cache
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfo.cs
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CoreCompileInputs.cache
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.Emart_final.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.build.Emart_final.props
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Emart_final.props
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Emart_final.props
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.build.json
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.development.json
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\scopedcss\bundle\Emart_final.styles.css
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CopyComplete
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.dll
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\refint\Emart_final.dll
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.pdb
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.genruntimeconfig.cache
+D:\PROJECT\Emart_final\Emart_final\obj\Debug\net7.0\ref\Emart_final.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\Google.Protobuf.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\MySql.Data.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\ZstdSharp.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\PROJECT\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\appsettings.json
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.exe
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.deps.json
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.pdb
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.Emart_final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.build.Emart_final.props
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Emart_final.props
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Emart_final.props
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\scopedcss\bundle\Emart_final.styles.css
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CopyComplete
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\refint\Emart_final.dll
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.pdb
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\Emart1\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\ref\Emart_final.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\appsettings.Development.json
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\appsettings.json
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.exe
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.deps.json
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.runtimeconfig.json
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Emart_final.pdb
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Azure.Core.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Azure.Identity.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Google.Protobuf.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Humanizer.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\MySql.Data.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.CodeDom.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Memory.Data.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\ZstdSharp.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.AssemblyReference.cache
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfoInputs.cache
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfo.cs
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CoreCompileInputs.cache
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cs
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cache
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.Emart_final.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.build.Emart_final.props
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Emart_final.props
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Emart_final.props
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.build.json
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\staticwebassets.development.json
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\scopedcss\bundle\Emart_final.styles.css
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CopyComplete
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\refint\Emart_final.dll
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.pdb
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\Emart_final.genruntimeconfig.cache
+D:\PROJECT\Emart(.net)\Emart_final\Emart_final\Emart_final\obj\Debug\net7.0\ref\Emart_final.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\appsettings.json
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Emart_final.exe
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Emart_final.deps.json
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Emart_final.runtimeconfig.json
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Emart_final.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Emart_final.pdb
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Humanizer.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.csproj.AssemblyReference.cache
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfoInputs.cache
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.AssemblyInfo.cs
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CoreCompileInputs.cache
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.Emart_final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.build.Emart_final.props
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Emart_final.props
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Emart_final.props
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\scopedcss\bundle\Emart_final.styles.css
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.csproj.CopyComplete
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\refint\Emart_final.dll
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.pdb
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\Emart_final.genruntimeconfig.cache
+C:\Users\vhtan\OneDrive\Desktop\DotNet\Emart_final\obj\Debug\net7.0\ref\Emart_final.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\appsettings.json
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Emart_final.exe
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Emart_final.deps.json
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Emart_final.runtimeconfig.json
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Emart_final.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Emart_final.pdb
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.csproj.AssemblyReference.cache
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.AssemblyInfoInputs.cache
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.AssemblyInfo.cs
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.csproj.CoreCompileInputs.cache
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\staticwebassets\msbuild.Emart_final.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\staticwebassets\msbuild.build.Emart_final.props
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Emart_final.props
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Emart_final.props
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\scopedcss\bundle\Emart_final.styles.css
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.csproj.CopyComplete
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\refint\Emart_final.dll
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.pdb
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\Emart_final.genruntimeconfig.cache
+C:\Users\Akshay\Desktop\Customer dotnet\Dotnet\emart_dotnet\obj\Debug\net7.0\ref\Emart_final.dll
